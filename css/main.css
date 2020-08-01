@@ -1,0 +1,40 @@
+.borde{
+    border-radius: 20%;
+}
+
+.entradas{
+    border-color: grey;
+    border-width: 0px 0px 1px 0px ;
+}
+
+.alertar{
+    border: solid red;
+    border-width: 1px 1px 1px 1px ;
+}
+
+.primero{
+    border: solid;
+    border-color:#D4E6F1;
+    border-width: 1px 2px 1px 2px ;
+    border-radius: 10%;
+    
+}
+
+.recuperar{
+    color: #D58A14;
+}
+
+.recuperar:hover{
+    color: #794E02;
+
+}
+
+.ir{
+    border-width: 0px 0px 0px 0px ;
+    background-color: white;
+    color: #3498DB;
+}
+.ir:hover{
+    color: #1B4F72;
+    text-decoration: underline;
+}
